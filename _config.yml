@@ -96,9 +96,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "MIRAE"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
+  bio              : "개발자 지망생"
   location         : "Somewhere"
   email            :
   links:
