@@ -1,0 +1,13 @@
+
+name: Future
+
+description: 안되는 건 없다.
+
+avatar: https://estrellita.org/images/estrellita.png
+
+url:
+
+baseurl: ""
+
+exclude:
+  - README.md
