@@ -21,6 +21,7 @@ title: Future
 name : Mirae
 email: your-email@example.com
 description: 안되는 건 없다.
+avatar : "https://estrellita.org/images/estrellita.png"
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://estrellita12.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: #
